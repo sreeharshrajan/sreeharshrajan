@@ -38,6 +38,3 @@ I am an Web Developer from India 🇮🇳, tweaking with technology!
 | ------------- | ------------- |
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/SreeharshR?style=social)
-<!-- ![Visitor Count](https://profile-counter.glitch.me/{sreeharshrajan}/count.svg) -->
-
