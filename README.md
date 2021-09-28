@@ -30,6 +30,7 @@ I am an Web Developer from India 🇮🇳, tweaking with technology!
 <a href="https://dev.to/sreeharshrajan"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" ></a>
 <a href="mailto:sreeharshkrajan@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25 /></a>
 <a href="https://www.linkedin.com/in/sreeharshk/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://medium.com/@sreeharshrajan"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a> 
+ <a href="https://codepen.io/sreeharshrajan"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /> </a> 
 
 ## 📫 GitHub Stats
 
