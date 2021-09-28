@@ -5,7 +5,7 @@ I am an Web Developer from India 🇮🇳, tweaking with technology!
 **About me**
 - 🔭 I’m currently working on MERN Stack
 - 🌱 I’m currently learning Python
-- 💬 Ask me about "Why the Rich fund for global warming?"
+- 💬 Ask me about "Why the Rich guys fund global warming?"
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I eat when I am not coding.
 
