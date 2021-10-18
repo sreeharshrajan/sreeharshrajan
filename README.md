@@ -1,10 +1,11 @@
 ### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sreeharsh
-I am an Web Developer from India 🇮🇳, tweaking with technology! 
+I'm an Web Developer from India 🇮🇳, tweaking with technology and boasting about how the programming can make your mental health normal! 
+I'm also blogging tech guides in medium, do not forget to visit my blogs 😉
 
 
 **About me**
-- 🔭 I’m currently working on MERN Stack
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on MERN Stack.
+- 🌱 I’m currently learning Python while mastering Full Stack Development.
 - 💬 Ask me about "Why the Rich guys fund global warming?"
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I eat when I am not coding.
