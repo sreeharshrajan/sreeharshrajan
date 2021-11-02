@@ -34,7 +34,9 @@ I'm also blogging tech guides in medium, do not forget to visit my blogs 😉
  <a href="https://codepen.io/sreeharshrajan"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /> </a> 
 
 ## 📫 GitHub Stats
+| General         | Most Used Languages |
+|--------------|:-----:|
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sreeharshrajan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sreeharsh's github stats" /></a>  |   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeharshrajan&layout=compact&theme=buefy&hide_border=true" /></a> |        
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sreeharshrajan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sreeharsh's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeharshrajan&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 
