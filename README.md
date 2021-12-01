@@ -8,8 +8,6 @@ I'm also blogging tech guides in medium, do not forget to visit my blogs 😉
 - 🌱 I’m currently learning Python while mastering Full Stack Development.
 - 💬 Ask me about "Why does no one talks about the Rich guys who fund global warming?"
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I eat when I am not coding.
-
 
 
 ## 🧰 Toolbox
