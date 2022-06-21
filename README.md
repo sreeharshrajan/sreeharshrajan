@@ -1,4 +1,4 @@
-### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sreeharsh
+### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">, I'm Sreeharsh
 I'm an Web Developer from India 🇮🇳, tweaking with technology and boasting about how the programming can make your mental health normal! 
 I'm also blogging tech guides in medium, do not forget to visit my blogs 😉
 
