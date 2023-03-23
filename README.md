@@ -4,8 +4,8 @@ I'm also blogging tech guides in medium, do not forget to visit my blogs 😉
 
 
 **About me**
-- 🔭 I’m currently working on MERN Stack.
-- 🌱 I’m currently learning Python while mastering Full Stack Development.
+- 🔭 I’m currently working on LAMP Stack.
+- 🌱 I’m currently msatering Reactjs.
 - 💬 Ask me about "Why does no one talks about the Rich guys who fund global warming?"
 - 😄 Pronouns: He/Him
 
