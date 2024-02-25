@@ -5,7 +5,7 @@ I'm also blogging tech guides in medium, do not forget to visit my blogs 😉
 
 **About me**
 - 🔭 I’m currently working on LAMP Stack.
-- 🌱 I’m currently msatering Reactjs.
+- 🌱 I’m currently msatering React.js 18 and Next.js 14 with TypeScript.
 - 💬 Ask me about "Why does no one talks about the Rich guys who fund global warming?"
 - 😄 Pronouns: He/Him
 
