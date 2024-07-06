@@ -1,10 +1,18 @@
-### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  style="width:30px">, I'm Sreeharsh
-I'm an Web Developer from India 🇮🇳, tweaking with technology and boasting about how the programming can make your mental health normal! 
-I'm also blogging tech guides in medium, do not forget to visit my blogs 😉
+## Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  style="width:30px">! I'm Sreeharsh, a Full Stack Developer and Creative Designer based in Bengaluru, India.
+
+- 💻 Over 4 years of professional experience, specializing in delivering top-notch web applications with a focus on performance and visual excellence.
+- 🚀 Spearheaded the development of a Learning Management System at Kods Technologies Ltd using Laravel and React.js, emphasizing code quality and project efficiency.
+- 🎨 Skilled in Graphic Designing, Video Editing, Blogging, and Digital Marketing, enabling me to create comprehensive and captivating digital content.
+- 🔧 Passionate about coding, designing, and creating impactful digital experiences.
+
+### Check out my portfolio at [sreeharsh.tech](https://sreeharsh.tech) for examples of my work!
+
+Let's connect and collaborate on exciting projects. Feel free to reach out!
+
 
 
 **About me**
-- 🔭 I’m currently working on LAMP Stack.
+- 🔭 I’m currently working in LAMP Stack.
 - 🌱 I’m currently msatering React.js 18 and Next.js 14 with TypeScript.
 - 💬 Ask me about "Why does no one talks about the Rich guys who fund global warming?"
 - 😄 Pronouns: He/Him
