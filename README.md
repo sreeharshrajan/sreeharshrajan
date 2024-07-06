@@ -1,11 +1,11 @@
 ## Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  style="width:30px">! I'm Sreeharsh, a Full Stack Developer and Creative Designer based in Bengaluru, India.
 
-- 💻 Over 4 years of professional experience, specializing in delivering top-notch web applications with a focus on performance and visual excellence.
-- 🚀 Spearheaded the development of a Learning Management System at Kods Technologies Ltd using Laravel and React.js, emphasizing code quality and project efficiency.
-- 🎨 Skilled in Graphic Designing, Video Editing, Blogging, and Digital Marketing, enabling me to create comprehensive and captivating digital content.
-- 🔧 Passionate about coding, designing, and creating impactful digital experiences.
+- 💻 Currently working as a Full Stack Developer at WebCastle, with a focus on building robust ecommerce websites, web applications, billing systems, and learning management systems.
+- 🚀 Over 4 years of professional experience in delivering high-quality web solutions, ensuring both performance and visual excellence.
+- 🎨 Skilled in Graphic Designing, Video Editing, Blogging, and Digital Marketing, passionate about crafting engaging digital content.
+- 🔧 Proficient in Laravel, React.js, and a variety of other tools to streamline development processes and enhance project efficiency.
 
-### Check out my portfolio at [sreeharsh.tech](https://sreeharsh.tech) for examples of my work!
+### Check out my portfolio at [sreeharsh.tech](https://sreeharsh.tech) to see my work!
 
 Let's connect and collaborate on exciting projects. Feel free to reach out!
 
