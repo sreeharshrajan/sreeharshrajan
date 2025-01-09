@@ -1,6 +1,6 @@
 ## Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  style="width:30px">! 
 
-###I'm Sreeharsh, a Full Stack Developer and Creative Designer based in Bengaluru, India.
+### I'm Sreeharsh, a Full Stack Developer and Creative Designer based in Bengaluru, India.
 
 - 💻 Currently working as a Full Stack Developer at WebCastle, with a focus on building robust ecommerce websites, web applications, billing systems, and learning management systems.
 - 🚀 Over 4 years of professional experience in delivering high-quality web solutions, ensuring both performance and visual excellence.
