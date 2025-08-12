@@ -7,7 +7,7 @@
 - 🎨 Skilled in Graphic Designing, Video Editing, Blogging, and Digital Marketing, passionate about crafting engaging digital content.
 - 🔧 Proficient in Laravel, React.js, and a variety of other tools to streamline development processes and enhance project efficiency.
 
-### Check out my portfolio at [sreeharsh.tech](https://sreeharsh.tech) to see my work!
+### Check out my portfolio at [https://sreeharsh.vercel.app/](https://sreeharsh.vercel.app) to see my work!
 
 Let's connect and collaborate on exciting projects. Feel free to reach out!
 
