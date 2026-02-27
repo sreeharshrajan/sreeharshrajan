@@ -2,7 +2,7 @@
 
 ### I'm Sreeharsh, a Full Stack Developer and Creative Designer based in Bengaluru, India.
 
-- 💻 Currently working as a Full Stack Developer at WebCastle, with a focus on building robust ecommerce websites, web applications, billing systems, and learning management systems.
+- 💻 Currently working as a Full Stack Developer at [Ekahal](https://ekahal.com/), with a focus on building robust ecommerce websites, web applications, billing systems, and learning management systems.
 - 🚀 Over 4 years of professional experience in delivering high-quality web solutions, ensuring both performance and visual excellence.
 - 🎨 Skilled in Graphic Designing, Video Editing, Blogging, and Digital Marketing, passionate about crafting engaging digital content.
 - 🔧 Proficient in Laravel, React.js, and a variety of other tools to streamline development processes and enhance project efficiency.
