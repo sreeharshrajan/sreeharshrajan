@@ -14,9 +14,11 @@ Let's connect and collaborate on exciting projects. Feel free to reach out!
 
 
 **About me**
-- 🔭 I’m currently working in LAMP Stack.
-- 🌱 I’m currently msatering React.js 18 and Next.js 14 with TypeScript.
+- 🔭 I'm building systems with LAMP Stack (Linux, Apache, MySQL, PHP)
+- 🌱 I’m currently mastering modern frontends with React 19, Next.js 16, and TypeScript 5.9
 - 💬 Ask me about "Why does no one talks about the Rich guys who fund global warming?"
+- 🏗️ Focused on scalable architectures, performance optimization, and clean DX-first workflows
+- 👨🏻‍💻 Continuously refining full-stack patterns: API design, SSR/ISR, edge rendering, and database performance
 - 😄 Pronouns: He/Him
 
 
@@ -36,10 +38,12 @@ Let's connect and collaborate on exciting projects. Feel free to reach out!
 | :-----: | :-----------: | :-----------: | 
 |  <a href="mailto:sreeharshkrajan@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25 /></a> |<a href="https://www.twitter.com/SreeharshR/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=25>  <a href="https://www.linkedin.com/in/sreeharshk/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> |<a href="https://dev.to/sreeharshrajan"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" ></a></a> <a href="https://medium.com/@sreeharshrajan"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a> <a href="https://codepen.io/sreeharshrajan"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /> </a> 
 
-## 📫 GitHub Stats
-| General         | Most Used Languages |
-|--------------|:-----:|
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sreeharshrajan&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Sreeharsh's github stats" /></a>  |   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeharshrajan&layout=compact&theme=blue-green&hide_border=true" /></a> |        
+## 📊 GitHub Stats
 
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=sreeharshrajan&theme=blue-green&hide_border=true" />
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sreeharshrajan&color=blue)
 
 
